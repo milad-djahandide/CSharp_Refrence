@@ -1,5 +1,10 @@
 C# Intermediate: Classes, Interfaces and OOP By: Mosh Hamedani www.programmingwithmosh.com
 # POLYMORPHISM
+
+* [Method Overriding](#method-overriding)
+* [Abstract Classes and Members](#abstract-classes-and-members)
+* [Sealed Classes and Members](#sealed-classes-and-members)
+
 ## Method Overriding 
 * Method overriding means changing the implementation of an inherited method. 
 * If a declare a method as virtual in the base class, we can override it in a derived class.
