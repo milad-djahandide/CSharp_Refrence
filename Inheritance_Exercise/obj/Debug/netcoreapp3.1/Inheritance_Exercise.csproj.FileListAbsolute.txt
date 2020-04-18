@@ -1,0 +1,13 @@
+C:\Users\milad\source\repos\CSharp_Refrence\Inheritance_Exercise\bin\Debug\netcoreapp3.1\Inheritance_Exercise.exe
+C:\Users\milad\source\repos\CSharp_Refrence\Inheritance_Exercise\bin\Debug\netcoreapp3.1\Inheritance_Exercise.deps.json
+C:\Users\milad\source\repos\CSharp_Refrence\Inheritance_Exercise\bin\Debug\netcoreapp3.1\Inheritance_Exercise.runtimeconfig.json
+C:\Users\milad\source\repos\CSharp_Refrence\Inheritance_Exercise\bin\Debug\netcoreapp3.1\Inheritance_Exercise.runtimeconfig.dev.json
+C:\Users\milad\source\repos\CSharp_Refrence\Inheritance_Exercise\bin\Debug\netcoreapp3.1\Inheritance_Exercise.dll
+C:\Users\milad\source\repos\CSharp_Refrence\Inheritance_Exercise\bin\Debug\netcoreapp3.1\Inheritance_Exercise.pdb
+C:\Users\milad\source\repos\CSharp_Refrence\Inheritance_Exercise\obj\Debug\netcoreapp3.1\Inheritance_Exercise.csprojAssemblyReference.cache
+C:\Users\milad\source\repos\CSharp_Refrence\Inheritance_Exercise\obj\Debug\netcoreapp3.1\Inheritance_Exercise.csproj.CoreCompileInputs.cache
+C:\Users\milad\source\repos\CSharp_Refrence\Inheritance_Exercise\obj\Debug\netcoreapp3.1\Inheritance_Exercise.AssemblyInfoInputs.cache
+C:\Users\milad\source\repos\CSharp_Refrence\Inheritance_Exercise\obj\Debug\netcoreapp3.1\Inheritance_Exercise.AssemblyInfo.cs
+C:\Users\milad\source\repos\CSharp_Refrence\Inheritance_Exercise\obj\Debug\netcoreapp3.1\Inheritance_Exercise.dll
+C:\Users\milad\source\repos\CSharp_Refrence\Inheritance_Exercise\obj\Debug\netcoreapp3.1\Inheritance_Exercise.pdb
+C:\Users\milad\source\repos\CSharp_Refrence\Inheritance_Exercise\obj\Debug\netcoreapp3.1\Inheritance_Exercise.genruntimeconfig.cache

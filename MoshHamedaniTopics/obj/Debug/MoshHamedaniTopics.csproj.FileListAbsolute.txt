@@ -1,0 +1,15 @@
+C:\Users\milad\source\repos\CSharp_Refrence\MoshHamedaniTopics\bin\Debug\MoshHamedaniTopics.exe.config
+C:\Users\milad\source\repos\CSharp_Refrence\MoshHamedaniTopics\bin\Debug\MoshHamedaniTopics.exe
+C:\Users\milad\source\repos\CSharp_Refrence\MoshHamedaniTopics\bin\Debug\MoshHamedaniTopics.pdb
+C:\Users\milad\source\repos\CSharp_Refrence\MoshHamedaniTopics\obj\Debug\MoshHamedaniTopics.csprojAssemblyReference.cache
+C:\Users\milad\source\repos\CSharp_Refrence\MoshHamedaniTopics\obj\Debug\MainWindow.g.cs
+C:\Users\milad\source\repos\CSharp_Refrence\MoshHamedaniTopics\obj\Debug\App.g.cs
+C:\Users\milad\source\repos\CSharp_Refrence\MoshHamedaniTopics\obj\Debug\MoshHamedaniTopics_MarkupCompile.cache
+C:\Users\milad\source\repos\CSharp_Refrence\MoshHamedaniTopics\obj\Debug\MoshHamedaniTopics_MarkupCompile.lref
+C:\Users\milad\source\repos\CSharp_Refrence\MoshHamedaniTopics\obj\Debug\MainWindow.baml
+C:\Users\milad\source\repos\CSharp_Refrence\MoshHamedaniTopics\obj\Debug\MoshHamedaniTopics.g.resources
+C:\Users\milad\source\repos\CSharp_Refrence\MoshHamedaniTopics\obj\Debug\MoshHamedaniTopics.Properties.Resources.resources
+C:\Users\milad\source\repos\CSharp_Refrence\MoshHamedaniTopics\obj\Debug\MoshHamedaniTopics.csproj.GenerateResource.cache
+C:\Users\milad\source\repos\CSharp_Refrence\MoshHamedaniTopics\obj\Debug\MoshHamedaniTopics.csproj.CoreCompileInputs.cache
+C:\Users\milad\source\repos\CSharp_Refrence\MoshHamedaniTopics\obj\Debug\MoshHamedaniTopics.exe
+C:\Users\milad\source\repos\CSharp_Refrence\MoshHamedaniTopics\obj\Debug\MoshHamedaniTopics.pdb

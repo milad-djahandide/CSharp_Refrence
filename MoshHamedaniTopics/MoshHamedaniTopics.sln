@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoshHamedaniTopics", "MoshHamedaniTopics.csproj", "{D44B8887-1DD3-48CC-AE3C-55D598539ECE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance_Exercise", "..\Inheritance_Exercise\Inheritance_Exercise.csproj", "{1FA1928C-AF09-431D-8725-F3CA6E5A2B48}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D44B8887-1DD3-48CC-AE3C-55D598539ECE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D44B8887-1DD3-48CC-AE3C-55D598539ECE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D44B8887-1DD3-48CC-AE3C-55D598539ECE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D44B8887-1DD3-48CC-AE3C-55D598539ECE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FA1928C-AF09-431D-8725-F3CA6E5A2B48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FA1928C-AF09-431D-8725-F3CA6E5A2B48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FA1928C-AF09-431D-8725-F3CA6E5A2B48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FA1928C-AF09-431D-8725-F3CA6E5A2B48}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58DEDBD3-3504-4F86-A8C5-7D219A95B094}
+	EndGlobalSection
+EndGlobal
