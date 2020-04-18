@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoshHamedaniTopics", "MoshH
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance_Exercise", "..\Inheritance_Exercise\Inheritance_Exercise.csproj", "{1FA1928C-AF09-431D-8725-F3CA6E5A2B48}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polymorphism_Exercise", "..\Polymorphism_Exercise\Polymorphism_Exercise.csproj", "{18B15400-8C63-4534-B42A-4FCEA03B3FC7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{1FA1928C-AF09-431D-8725-F3CA6E5A2B48}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1FA1928C-AF09-431D-8725-F3CA6E5A2B48}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1FA1928C-AF09-431D-8725-F3CA6E5A2B48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18B15400-8C63-4534-B42A-4FCEA03B3FC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18B15400-8C63-4534-B42A-4FCEA03B3FC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18B15400-8C63-4534-B42A-4FCEA03B3FC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18B15400-8C63-4534-B42A-4FCEA03B3FC7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

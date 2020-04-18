@@ -1,0 +1,13 @@
+C:\Users\milad\source\repos\CSharp_Refrence\Polymorphism_Exercise\bin\Debug\netcoreapp3.1\Polymorphism_Exercise.exe
+C:\Users\milad\source\repos\CSharp_Refrence\Polymorphism_Exercise\bin\Debug\netcoreapp3.1\Polymorphism_Exercise.deps.json
+C:\Users\milad\source\repos\CSharp_Refrence\Polymorphism_Exercise\bin\Debug\netcoreapp3.1\Polymorphism_Exercise.runtimeconfig.json
+C:\Users\milad\source\repos\CSharp_Refrence\Polymorphism_Exercise\bin\Debug\netcoreapp3.1\Polymorphism_Exercise.runtimeconfig.dev.json
+C:\Users\milad\source\repos\CSharp_Refrence\Polymorphism_Exercise\bin\Debug\netcoreapp3.1\Polymorphism_Exercise.dll
+C:\Users\milad\source\repos\CSharp_Refrence\Polymorphism_Exercise\bin\Debug\netcoreapp3.1\Polymorphism_Exercise.pdb
+C:\Users\milad\source\repos\CSharp_Refrence\Polymorphism_Exercise\obj\Debug\netcoreapp3.1\Polymorphism_Exercise.csprojAssemblyReference.cache
+C:\Users\milad\source\repos\CSharp_Refrence\Polymorphism_Exercise\obj\Debug\netcoreapp3.1\Polymorphism_Exercise.csproj.CoreCompileInputs.cache
+C:\Users\milad\source\repos\CSharp_Refrence\Polymorphism_Exercise\obj\Debug\netcoreapp3.1\Polymorphism_Exercise.AssemblyInfoInputs.cache
+C:\Users\milad\source\repos\CSharp_Refrence\Polymorphism_Exercise\obj\Debug\netcoreapp3.1\Polymorphism_Exercise.AssemblyInfo.cs
+C:\Users\milad\source\repos\CSharp_Refrence\Polymorphism_Exercise\obj\Debug\netcoreapp3.1\Polymorphism_Exercise.dll
+C:\Users\milad\source\repos\CSharp_Refrence\Polymorphism_Exercise\obj\Debug\netcoreapp3.1\Polymorphism_Exercise.pdb
+C:\Users\milad\source\repos\CSharp_Refrence\Polymorphism_Exercise\obj\Debug\netcoreapp3.1\Polymorphism_Exercise.genruntimeconfig.cache
