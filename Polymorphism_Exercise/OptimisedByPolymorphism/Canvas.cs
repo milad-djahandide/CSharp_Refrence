@@ -1,5 +1,4 @@
-﻿using System.Collections;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 
 namespace Polymorphism_Exercise
 {
@@ -7,7 +6,6 @@ namespace Polymorphism_Exercise
     {
         public void DrawShapes(List<Shape> shapes)
         {
-            
             foreach (var shape in shapes)
             {
                 shape.Draw();
